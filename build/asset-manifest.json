@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.216cd281.css",
+    "main.js": "/static/js/main.4a50d334.js",
+    "static/media/metacart.png": "/static/media/metacart.c13335b831ea257d2070.png",
+    "static/media/my-todolist.png": "/static/media/my-todolist.c1a54fb37cc280483fde.png",
+    "static/media/my-css-arts.png": "/static/media/my-css-arts.96612d1842f8025dd671.png",
+    "static/media/profile.png": "/static/media/profile.b19353626290236da545.png",
+    "static/media/react.pdf": "/static/media/react.9b0ebb3c450848f4bd09.pdf",
+    "static/media/webhelpui-img.png": "/static/media/webhelpui-img.b398486ec5a3036b95b5.png",
+    "static/media/learn-triangles.png": "/static/media/learn-triangles.abad1041f4d10843e17a.png",
+    "static/media/navi-translator.png": "/static/media/navi-translator.d1e30eb3b04aeaf06aeb.png",
+    "static/media/cash-register.png": "/static/media/cash-register.87bb0cc99cfba3d05172.png",
+    "static/media/DOM-tree.png": "/static/media/DOM-tree.25674324bd0e1721f770.png",
+    "static/media/stock-profit.png": "/static/media/stock-profit.fd57cb4477eaa1018b86.png",
+    "static/media/my-keepnote.png": "/static/media/my-keepnote.4123a0e045e187b93cd8.png",
+    "static/media/position-property.png": "/static/media/position-property.587d85656332137fdbaa.png",
+    "static/media/reactjs.svg": "/static/media/reactjs.c6cc5ae5575954545f95b0f0d9a857c4.svg",
+    "static/media/javaScriptImg.jpg": "/static/media/javaScriptImg.eb38c608972ee44f3bf8.jpg",
+    "static/media/javascript.svg": "/static/media/javascript.9ce7d00e59990966f797163e64e834d5.svg",
+    "static/media/python.svg": "/static/media/python.58d5a0a7b305a106917669f9abcc4f3d.svg",
+    "static/media/git.svg": "/static/media/git.aeeb13ab71f0fa41e8bb99688f96cfdd.svg",
+    "index.html": "/index.html",
+    "static/media/css.svg": "/static/media/css.64fa1d1c4801d931c3717be71f6c020e.svg",
+    "static/media/html.svg": "/static/media/html.8ae3d4adcd70a1028a6377697d9f33b0.svg",
+    "main.216cd281.css.map": "/static/css/main.216cd281.css.map",
+    "main.4a50d334.js.map": "/static/js/main.4a50d334.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.216cd281.css",
+    "static/js/main.4a50d334.js"
+  ]
+}
