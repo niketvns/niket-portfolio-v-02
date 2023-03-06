@@ -227,6 +227,20 @@
   background: linear-gradient(90.21deg, rgba(170, 54, 124, .5) -5.91%, rgba(74, 47, 189, .5) 111.58%);
 }
 
+.main-projects .tabs {
+  display: flex;
+  justify-content: center;
+  gap: 100px;
+}
+
+.main-projects .tabs h3 {
+  background: linear-gradient(90.21deg, rgba(170, 54, 124, .5) -5.91%, rgba(74, 47, 189, .5) 111.58%);
+  color: white;
+  padding: 10px 20px;
+  border-radius: 30px;
+  cursor: pointer;
+}
+
 .green {
   color: rgb(97, 216, 97);
 }
