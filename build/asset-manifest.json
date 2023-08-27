@@ -1,10 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.216cd281.css",
-    "main.js": "/static/js/main.4a50d334.js",
+    "main.css": "/static/css/main.9b0bfc85.css",
+    "main.js": "/static/js/main.0aa288f9.js",
     "static/media/metacart.png": "/static/media/metacart.c13335b831ea257d2070.png",
     "static/media/my-todolist.png": "/static/media/my-todolist.c1a54fb37cc280483fde.png",
+    "static/media/technical-decode.png": "/static/media/technical-decode.4a80ea101d802700956b.png",
     "static/media/my-css-arts.png": "/static/media/my-css-arts.96612d1842f8025dd671.png",
+    "static/media/recvas.png": "/static/media/recvas.ba11a7e7e7091fd25e70.png",
+    "static/media/electric-bikes.png": "/static/media/electric-bikes.7aa6dd4163ce3da3177c.png",
+    "static/media/linkedin-clone.png": "/static/media/linkedin-clone.48389a0d58fd697d26fb.png",
+    "static/media/mui-clone.png": "/static/media/mui-clone.26bbee5cda2a8bc987f3.png",
     "static/media/profile.png": "/static/media/profile.b19353626290236da545.png",
     "static/media/react.pdf": "/static/media/react.9b0ebb3c450848f4bd09.pdf",
     "static/media/webhelpui-img.png": "/static/media/webhelpui-img.b398486ec5a3036b95b5.png",
@@ -23,11 +28,11 @@
     "index.html": "/index.html",
     "static/media/css.svg": "/static/media/css.64fa1d1c4801d931c3717be71f6c020e.svg",
     "static/media/html.svg": "/static/media/html.8ae3d4adcd70a1028a6377697d9f33b0.svg",
-    "main.216cd281.css.map": "/static/css/main.216cd281.css.map",
-    "main.4a50d334.js.map": "/static/js/main.4a50d334.js.map"
+    "main.9b0bfc85.css.map": "/static/css/main.9b0bfc85.css.map",
+    "main.0aa288f9.js.map": "/static/js/main.0aa288f9.js.map"
   },
   "entrypoints": [
-    "static/css/main.216cd281.css",
-    "static/js/main.4a50d334.js"
+    "static/css/main.9b0bfc85.css",
+    "static/js/main.0aa288f9.js"
   ]
 }

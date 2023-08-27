@@ -6,8 +6,24 @@ import learnTrianglesImg from '../Images/learn-triangles.png';
 import cssArtsImg from '../Images/my-css-arts.png';
 import metacart from '../Images/metacart.png';
 import recvas from '../Images/recvas.png';
+import cinemetrix from '../Images/cinemetrix.png';
+import sociogram from '../Images/sociogram.png';
 
 const ProjectData = [
+    {
+        id: 11,
+        Title: 'Sociogram',
+        Image: sociogram,
+        Link: 'https://sociogramapp.netlify.app/',
+        Github: 'https://github.com/niketvns/sociogram'
+    },
+    {
+        id: 12,
+        Title: 'Cinematrix',
+        Image: cinemetrix,
+        Link: 'https://cinematrixvideos.netlify.app/',
+        Github: 'https://github.com/niketvns/cinematrix-video-gallary'
+    },
     {
         id: 1,
         Title: 'MetaCartShop',

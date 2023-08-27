@@ -1,7 +1,13 @@
+import { useEffect } from "react";
 import BlogCard from "./BlogCard";
 import BlogData from "./BlogData";
 
 const Blogs = () => {
+
+    useEffect(() => {
+        window.scrollTo({ top: 0, left: 0, behavior: 'smooth' });
+    }, [])
+
     return (
         <>
             <div className="main-blogs">

@@ -1,9 +1,14 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import ProjectCard from "./ProjectCard";
 import ProjectData from "./ProjectData";
 import ProjectDataTab2 from "./ProjectDataTab2";
 
 const Projects = () => {
+
+    useEffect(() => {
+        window.scrollTo({ top: 0, left: 0, behavior: 'smooth' });
+    }, [])
+
     const [tab, setTab] = useState(1);
 
     const tab1Style = {
