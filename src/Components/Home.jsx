@@ -53,7 +53,19 @@ const Home = () => {
                         </div>
                         <div className="skill react">
                             <img src={ReactjsImg} alt="" />
-                            <p>react</p>
+                            <p>React</p>
+                        </div>
+                        <div className="skill react">
+                            <img src={ReactjsImg} alt="" />
+                            <p>TypeScript</p>
+                        </div>
+                        <div className="skill react">
+                            <img src={ReactjsImg} alt="" />
+                            <p>Next.js</p>
+                        </div>
+                        <div className="skill react">
+                            <img src={ReactjsImg} alt="" />
+                            <p>Tailwind CSS</p>
                         </div>
                         <div className="skill github">
                             <GitHubIcon className='img' />
